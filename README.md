@@ -18,18 +18,18 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔌 **[Smartphone USB-C Charger Circuit Design](./)** | Designed the schematic in KiCad, fabricated the PCB via toner-transfer etching, drilled holes, and soldered/tested the circuit. | KiCad, Hardware Prototyping, Soldering[cite: 2] |
-| 💡 **[Smart Home Lighting System (Clap Detection](./)** | Built an Arduino Uno lighting controller toggled via a sound sensor, utilizing digital I/O and sensitivity tuning. | C/C++, Arduino, Hardware Testing[cite: 2] |
-| 🌱 **[IoT for Precision Agriculture](./)** | Researched and prototyped an IoT framework utilizing soil moisture, temperature, and humidity sensors to automate resource allocation. | IoT, Embedded Sensors[cite: 2] |
-| 🍽️ **[Restaurant Management System](./)** | Developed backend features including JWT authentication, bcrypt hashing, role-based access control, and secure PostgreSQL database interactions. | Node.js, Express.js, PostgreSQL[cite: 2] |
-| 📦 **[Smart Logistics & Delivery Management System](./)** | Designed relational database schemas, mapping primary/foreign keys, and normalizing from 1NF to 3NF. | PostgreSQL, Database Modeling[cite: 2] |
+| 🔌 **[Smartphone USB-C Charger Circuit Design](./)** | Designed the schematic in KiCad, fabricated the PCB via toner-transfer etching, drilled holes, and soldered/tested the circuit. | KiCad, Hardware Prototyping, Soldering |
+| 💡 **[Smart Home Lighting System (Clap Detection](./)** | Built an Arduino Uno lighting controller toggled via a sound sensor, utilizing digital I/O and sensitivity tuning. | C/C++, Arduino, Hardware Testing |
+| 🌱 **[IoT for Precision Agriculture](./)** | Researched and prototyped an IoT framework utilizing soil moisture, temperature, and humidity sensors to automate resource allocation. | IoT, Embedded Sensors |
+| 🍽️ **[Restaurant Management System](./)** | Developed backend features including JWT authentication, bcrypt hashing, role-based access control, and secure PostgreSQL database interactions. | Node.js, Express.js, PostgreSQL |
+| 📦 **[Smart Logistics & Delivery Management System](./)** | Designed relational database schemas, mapping primary/foreign keys, and normalizing from 1NF to 3NF. | PostgreSQL, Database Modeling |
 
 ---
 
 ### 💼 Experience
 
-- **Intern** | DZILL Solution Limited (Sunyani, Ghana) *[April 2026 – June 2026]*[cite: 2]
-  - Configured and maintained computer networks, troubleshot connectivity issues, and supported technical operations[cite: 2].
+- **Intern** | DZILL Solution Limited (Sunyani, Ghana) *[April 2026 – June 2026]*
+  - Configured and maintained computer networks, troubleshot connectivity issues, and supported technical operations.
 
 ---
 
