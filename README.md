@@ -1,17 +1,16 @@
 # Hi, I'm Justin Owusu Afriyie Awuah 👋
 
-🎓 **Master’s Student in Embedded Electronics Systems** at JUNIA ISEN (International exchange student from KNUST)[cite: 2]  
-🎯 **Focus:** Embedded Firmware, C/C++, STM32 Microcontrollers, PCB Design, & Backend Development[cite: 2]  
-💼 **Looking for:** 3 to 4-Month Internship Starting May 2027[cite: 2]
+🎓 **Master’s Student in Embedded Electronics Systems** at JUNIA ISEN (International exchange student from KNUST)  
+🎯 **Focus:** Embedded Firmware, C/C++, STM32 Microcontrollers, PCB Design
+💼 **Looking for:** 3 to 4-Month Internship Starting May 2027
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Embedded Systems & Hardware:** C, C++, STM32, Arduino, KiCad (Schematic & PCB Design), Cadence, Soldering, Circuit Testing[cite: 2]
-- **Software & Web Development:** JavaScript, Node.js, Express.js, Python, SQL, PostgreSQL[cite: 2]
-- **Networking & IT:** Network setup, configuration, troubleshooting, and maintenance[cite: 2]
-- **Tools & Others:** Git/GitHub, Graphic Design (Photoshop), Microsoft Office Suite[cite: 2]
+- **Embedded Systems & Hardware:** C, C++, STM32, Arduino, KiCad (Schematic & PCB Design), Cadence, Soldering, Circuit Testing
+- **Networking & IT:** Network setup, configuration, troubleshooting, and maintenance
+- **Tools & Others:** Git/GitHub, Graphic Design (Photoshop), Microsoft Office Suite,Solidworks
 
 ---
 
@@ -36,5 +35,5 @@
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [justin-owusu-afriyie-awuah-29a736299](https://www.linkedin.com/in/justin-owusu-afriyie-awuah-29a736299)[cite: 2]
-- 📧 **Email:** awuahjustin473@gmail.com[cite: 2]
+- 💼 **LinkedIn:** [justin-owusu-afriyie-awuah-29a736299](https://www.linkedin.com/in/justin-owusu-afriyie-awuah-29a736299)
+- 📧 **Email:** awuahjustin473@gmail.com
